@@ -19,7 +19,7 @@ pip install python-dotenv
 pip install gunicorn
 
 pip freeze > requirements.txt
-echo "=== Dependancies installed in virtual environment 'venv' ==="
+echo "=== Dependencies installed in virtual environment 'venv' ==="
 echo "=== To activate it later, run: source venv/bin/activate ==="
 
 # Deactivate the virtual environment
